@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         loadingView.layer.addSublayer(ovalShapeLayer)
         
         print("123")
+        print("456")
 
     }
     
