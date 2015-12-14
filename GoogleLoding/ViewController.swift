@@ -38,6 +38,7 @@ class ViewController: UIViewController {
         
         print("abc")
         print("On Home")
+        print("Commit")
 
     }
     
